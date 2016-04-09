@@ -1,0 +1,54 @@
+_repo: Jacob-s-Room_5670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolf, Virginia
+    aliases:
+    - Stephen, Virginia
+    - Woolf, Virginia Stephen
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '89'
+    url: http://www.gutenberg.org/2009/agents/89
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+description: "Jacob's Room is the third novel by Virginia Woolf, first published on\
+  \ 26 October 1922.\nThe novel centres, in a very ambiguous way, around the life\
+  \ story of the protagonist Jacob Flanders and is presented almost entirely through\
+  \ the impressions other characters have of Jacob. Thus, although it could be said\
+  \ that the book is primarily a character study and has little in the way of plot\
+  \ or background, the narrative is constructed with a void in place of the central\
+  \ character if, indeed, the novel can be said to have a 'protagonist' in conventional\
+  \ terms.\nMotifs of emptiness and absence haunt the novel and establish its elegiac\
+  \ feel. Jacob is described to us, but in such indirect terms that it would seem\
+  \ better to view him as an amalgam of the different perceptions of the characters\
+  \ and narrator. He does not exist as a concrete reality, but rather as a collection\
+  \ of memories and sensations.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5670'
+  wikidata: Q1677745
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Experimental fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- GITenberg
+title: Jacob's Room
+url: http://www.gutenberg.org/ebooks/5670
+wikipedia:
+- https://fi.wikipedia.org/wiki/Jaakobin_huone
+- https://fr.wikipedia.org/wiki/La_Chambre_de_Jacob
+- https://pt.wikipedia.org/wiki/Jacob%27s_Room
+- https://pl.wikipedia.org/wiki/Pok%C3%B3j_Jakuba
+- https://de.wikipedia.org/wiki/Jacobs_Zimmer
+- https://es.wikipedia.org/wiki/El_cuarto_de_Jacob
+- https://en.wikipedia.org/wiki/Jacob%27s_Room
+- https://it.wikipedia.org/wiki/La_stanza_di_Jacob
+- https://af.wikipedia.org/wiki/Jacob%27s_Room
